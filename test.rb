@@ -52,3 +52,5 @@ end
 # puts の戻り値は nil
 puts sum(1, 10)
 
+puts '----------------'
+
